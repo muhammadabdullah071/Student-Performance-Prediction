@@ -260,14 +260,8 @@ pytest tests/ -v --cov=src
 
 **ML Engineer** — Data Science & Machine Learning
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- GitHub: [@your-username](https://github.com/muhammadabdullah071)
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/muhammad-abdullah-alvi/)
+- Portfolio: [your-portfolio.com](https://abdullah-alvi.vercel.app/)
 
 ---
-
-<div align="center">
-  <b>Built with ❤️ for data science and education</b>
-  <br>
-  <sub>Portfolio-ready · Internship-ready · Production-quality</sub>
-</div>
